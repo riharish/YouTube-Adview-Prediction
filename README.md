@@ -1,8 +1,11 @@
 YouTube AdView Prediction
+
 📌 Overview
+
 This project aims to predict the number of ad views a YouTube video will receive based on various input features such as category, duration, likes, comments, and other metadata. The goal is to leverage machine learning techniques to develop a predictive model that can help advertisers optimize their ad performance.
 
 📂 Dataset
+
 The dataset consists of YouTube video metadata, including:
 
 Video Category: The category under which the video is classified.
@@ -13,6 +16,7 @@ Views: The total number of views (used as the target variable for prediction).
 Published Date: The date the video was uploaded.
 
 🚀 Project Workflow
+
 Data Preprocessing
 
 Handling missing values.
