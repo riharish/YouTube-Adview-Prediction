@@ -19,10 +19,10 @@ Published Date: The date the video was uploaded.
 
 Data Preprocessing
 
-Handling missing values.
-Encoding categorical variables.
-Feature scaling and transformation.
-Exploratory Data Analysis (EDA)
+  Handling missing values.
+  Encoding categorical variables.
+  Feature scaling and transformation.
+  Exploratory Data Analysis (EDA)
 
 Distribution analysis of numerical features.
 Correlation analysis between features.
@@ -30,9 +30,9 @@ Identifying outliers and patterns.
 Model Training & Evaluation
 
 Splitting the dataset into training and testing sets.
-Training regression models such as:
-Linear Regression
-Random Forest Regressor
-Gradient Boosting Regressor
-Evaluating models using metrics like RMSE, R², and MAE.
-Hyperparameter Tuning
+  Training regression models such as:
+  Linear Regression
+  Random Forest Regressor
+  Gradient Boosting Regressor
+  Evaluating models using metrics like RMSE, R², and MAE.
+  Hyperparameter Tuning
